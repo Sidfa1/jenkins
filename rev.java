@@ -6,7 +6,7 @@ import java.util.Scanner;
 class rev {
 	public static void main (String[] args) {
 	
-		String str= "Geeks", nstr="";
+		String str= "Siddharth", nstr="";
 		char ch;
 	
 	System.out.print("Original word: ");
